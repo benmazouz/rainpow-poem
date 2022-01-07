@@ -1,0 +1,9 @@
+The rainpow
+
+red
+green
+yellow
+black
+white
+
+These are the colors of rainpow colors
