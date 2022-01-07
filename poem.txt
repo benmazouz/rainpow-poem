@@ -3,6 +3,7 @@ The rainpow
 red
 green
 yellow
+cayan
 black
 white
 
