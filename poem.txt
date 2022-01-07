@@ -5,6 +5,7 @@ green
 yellow
 cayan
 black
+brown
 white
 
 These are the colors of rainpow colors
