@@ -1,11 +1,13 @@
-The rainpow
+The rainpow and unicorn
 
 red
 green
 yellow
 cayan
+unicorn
 black
 brown
 white
 
 These are the colors of rainpow colors
+and the unicorn
