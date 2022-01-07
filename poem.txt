@@ -5,6 +5,7 @@ green
 yellow
 cayan
 unicorn
+a new color
 black
 brown
 white
